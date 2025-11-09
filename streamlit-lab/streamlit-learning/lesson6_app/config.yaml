@@ -1,0 +1,21 @@
+cookie:
+  expiry_days: 1
+  key: random_signature_key
+  name: streamlit_auth_cookie
+credentials:
+  usernames:
+    Mia:
+      email: snhfmzx@outlook.com
+      name: Mia
+      password: $2b$12$Ih6eBGYDdDGe56pV6mgCIOwBN9GxjmmgolL/.AtyanaSOt4MprHDO
+    admin:
+      email: admin@example.com
+      name: "\u7BA1\u7406\u5458"
+      password: $2b$12$Uo0W8pkZITsF7UqDEsTWiONWbqMxThGbeBq1oTdqE0rGjUlRH8b1u
+    user1:
+      email: user1@example.com
+      name: "\u666E\u901A\u7528\u6237"
+      password: $2b$12$e.pMYGZyKFxW84qgQw8bsuZxJoMqqSXiPqtR5kN/R7T.02/NtD7VC
+preauthorized:
+  emails:
+  - admin@example.com
